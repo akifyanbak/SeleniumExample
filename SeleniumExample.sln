@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumExample", "SeleniumExample\SeleniumExample.csproj", "{913A59A0-9238-4390-A282-1FB419EA17DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumExample.Tests", "SeleniumExample.Tests\SeleniumExample.Tests.csproj", "{D735C3F5-926C-4E16-B1D7-A2100DF45517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{913A59A0-9238-4390-A282-1FB419EA17DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913A59A0-9238-4390-A282-1FB419EA17DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913A59A0-9238-4390-A282-1FB419EA17DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913A59A0-9238-4390-A282-1FB419EA17DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D735C3F5-926C-4E16-B1D7-A2100DF45517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D735C3F5-926C-4E16-B1D7-A2100DF45517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D735C3F5-926C-4E16-B1D7-A2100DF45517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D735C3F5-926C-4E16-B1D7-A2100DF45517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
